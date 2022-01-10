@@ -2,7 +2,7 @@
 Artificial Life, University of Sussex
 January 2022
 
-This code accompanies the paper ``The Effect of Environmental Regulation and Natural Selection on Species Diversity in Daisyworld'' written by William Kearney in January 2022. It is an interpretation of Daisyworld (Lovelock and Watson, 1983) that allows for evolution through natural selection. The paper asks: does the ability of organisms to regulate the local environment they need to survive help preserve species diversity?
+This code accompanies the paper ''The Effect of Environmental Regulation and Natural Selection on Species Diversity in Daisyworld'' written by William Kearney in January 2022. It is an interpretation of Daisyworld (Lovelock and Watson, 1983) that allows for evolution through natural selection. The paper asks: does the ability of organisms to regulate the local environment they need to survive help preserve species diversity?
 
 ## 1: Abstract
 
